@@ -1,18 +1,9 @@
-+++
-title = "Biography"
-description = "Ibi's bio"
-date = "2020-04-09"
-image = 'ibi-about.jpg'
-tags = [
-"artist",
-"mural",
-"poetry",
-]
-categories = [
-"Bio",
-"art",
-]
-+++
+---
+title: Biography
+description: Ibi's bio
+date: 2020-03-09
+image: ibipv-foto.jpeg
+---
 
 Ibi is a talented young trouble maker, that likes all kinds of unusual expressions. There more off mainstream and the more unique the most atractive and valuable. She has gone her way to create her own unusual mode of expression, using poetry, music, drawing, paing and photography. The voice that comes out of her creative art amalgams her cultural background with a profound understanding of the human psyche and the societal strings that move an individual without selfcontrol. 
 
