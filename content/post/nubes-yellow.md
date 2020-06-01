@@ -1,10 +1,9 @@
 ---
 author: Ibi Padron
-title: "Page2"
-date: 2020-04-03
-image: ibi-alga.jpg
+title: "Yellow"
+date: 2020-03-28
+image: ibi-nubes.jpeg
 draft: false
 tags: [ abstract ]
 categories: [photography]
 ---
-

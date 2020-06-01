@@ -1,7 +1,7 @@
 ---
 author: Ibi Padron
-title: "Page4"
-date: 2020-04-01
+title: "Purple"
+date: 2020-03-29
 image: concierto1.jpeg
 draft: false
 tags: [ urban ]

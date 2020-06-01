@@ -5,8 +5,8 @@ date: 2020-03-09
 image: ibipv-foto.jpeg
 ---
 
-Ibi is a talented young trouble maker, that likes all kinds of unusual expressions. There more off mainstream and the more unique the most atractive and valuable. She has gone her way to create her own unusual mode of expression, using poetry, music, drawing, paing and photography. The voice that comes out of her creative art amalgams her cultural background with a profound understanding of the human psyche and the societal strings that move an individual without selfcontrol. 
+Ibi Padrón Venegas, a sensible, inquisitive, explosive and thoughtful immigrant.
+She is a talented young trouble maker that loves to create her own unusual mode of expression through poetry, music, drawing, painting and photography. The voice that comes out of her creative art resonates with a profound understanding of the human psyche and the societal strings that move an individual beyond their self control.  
+Born in Mexico and brought to Philadelphia at the young age of 2. With a passion for art at an early age, she has always wanted to pursue a career in art. Ibi grew up in the northern suburbs has fully adopted the American culture, while never forgetting her roots. Her love for Mexican culture, food and sense of belonging is something that she draws inspiration from and will never fade.  
 
-Ibi was born in Mexico, and brought to Philadelphia at the young age of 2. Growing in the northern suburbs has familiarized and taken the american culture as a native, but never forgeting her roots. I love for the Mexican folklore and food, and that something that when ever she goes back to visit makes her feel like the USA it is so far away, and although still familiar, there is a feeling she has much left to explore.
-
-Sensible, inquisitive, explosive and thoughtful; immigrant: in papers. All those voices can be heard in her art.
+Email: ibipv@icloud.org
